@@ -21,7 +21,7 @@ A simple and secure password manager built with Python. This program helps you s
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/password-manager.git
+   git clone https://github.com/mahmoudchaer/Password_Manager
    cd password-manager
    ```
 
