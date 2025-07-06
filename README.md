@@ -1,7 +1,7 @@
 
 # Password Manager
 
-A simple and secure password manager built with Python. This program helps you securely store, organize, and manage your passwords. It allows you to add, edit, view, and search passwords based on categories or other details.
+A simple and secure password manager built with Python. This program helps you securely store, organize, and manage your passwords. It allows you to add, edit, view, and search passwords based on categories or other details
 
 ## Features
 
